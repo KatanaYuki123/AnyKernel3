@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Zenless
+kernel.string=Shikanokonokonokoshitantan
 kernel.compiler=AOSP clang
 kernel.made=komii000
 message.word=
