@@ -4,8 +4,8 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kessoku Band
-kernel.compiler=AOSP clang
+kernel.string=Kessoku
+kernel.compiler=WeebX clang
 kernel.made=komii000
 message.word=
 do.devicecheck=1
